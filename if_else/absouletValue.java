@@ -17,5 +17,7 @@ public class absouletValue {
         // else System.out.println(-num +" is absolute value");
         if(num<0)num=-num;
         System.out.println("absolute value is :"+num);
+        /*using methiods
+        num= Math.abs(num); */
     }
 }
